@@ -1,0 +1,22 @@
+[User / Attacker]
+        |
+        v
+[Internet]
+        |
+        v
+[Security Group: Allow SSH]
+        |
+        v
+[EC2 Linux Server]
+        |
+        v
+[/var/log/auth.log]
+        |
+        v
+[Python Detection Script]
+        |
+        v
+[Security Alert JSON]
+        |
+        v
+[Incident Report]

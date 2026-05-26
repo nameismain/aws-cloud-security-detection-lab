@@ -1,0 +1,17 @@
+May 20 10:00:01 ip-10-10-1-25 sshd[1201]: Failed password for invalid user admin from 203.0.113.10 port 51234 ssh2
+May 20 10:00:40 ip-10-10-1-25 sshd[1202]: Failed password for invalid user root from 203.0.113.10 port 51235 ssh2
+May 20 10:01:12 ip-10-10-1-25 sshd[1203]: Failed password for invalid user ubuntu from 203.0.113.10 port 51236 ssh2
+May 20 10:02:03 ip-10-10-1-25 sshd[1204]: Failed password for invalid user test from 203.0.113.10 port 51237 ssh2
+May 20 10:03:20 ip-10-10-1-25 sshd[1205]: Failed password for invalid user ec2-user from 203.0.113.10 port 51238 ssh2
+May 20 10:04:55 ip-10-10-1-25 sshd[1206]: Failed password for invalid user oracle from 203.0.113.10 port 51239 ssh2
+May 20 10:06:10 ip-10-10-1-25 sshd[1207]: Accepted password for ubuntu from 203.0.113.10 port 51240 ssh2
+May 20 10:10:01 ip-10-10-1-25 sshd[1210]: Failed password for invalid user admin from 198.51.100.23 port 52234 ssh2
+May 20 10:11:01 ip-10-10-1-25 sshd[1211]: Failed password for invalid user admin from 198.51.100.23 port 52235 ssh2
+May 20 10:12:15 ip-10-10-1-25 sshd[1212]: Accepted publickey for ubuntu from 198.51.100.50 port 53001 ssh2
+May 20 10:20:01 ip-10-10-1-25 sshd[1220]: Failed password for invalid user user1 from 192.0.2.15 port 54001 ssh2
+May 20 10:30:01 ip-10-10-1-25 sshd[1221]: Failed password for invalid user user2 from 192.0.2.15 port 54002 ssh2
+May 20 10:40:01 ip-10-10-1-25 sshd[1230]: Failed password for ubuntu from 10.10.10.10 port 55001 ssh2
+May 20 10:40:20 ip-10-10-1-25 sshd[1231]: Failed password for ubuntu from 10.10.10.10 port 55002 ssh2
+May 20 10:41:01 ip-10-10-1-25 sshd[1232]: Failed password for ubuntu from 10.10.10.10 port 55003 ssh2
+May 20 10:41:40 ip-10-10-1-25 sshd[1233]: Failed password for ubuntu from 10.10.10.10 port 55004 ssh2
+May 20 10:42:10 ip-10-10-1-25 sshd[1234]: Failed password for ubuntu from 10.10.10.10 port 55005 ssh2
